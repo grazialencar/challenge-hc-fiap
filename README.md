@@ -71,10 +71,3 @@ Nosso foco foi **entregar uma solução simples, funcional e que de fato auxilie
 | Grazielle Alencar  | RM: 561529 | 1TDSPO     | [GitHub](https://github.com/grazialencar) | [LinkedIn](https://www.linkedin.com/in/grazielle-alencar/) |
 | Diego Andrade| RM: 566385  | 1TDSPO      | [GitHub](https://github.com/diandrade)                      | [LinkedIn](https://www.linkedin.com/in/andradedossantosdiego?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)                          |
 
-
----
-
-## Repositório no GitHub
-
-🔗 [https://github.com/fiap-hc-challenge/challenge-imrea-front.git](https://github.com/fiap-hc-challenge/challenge-imrea-front.git)
-
